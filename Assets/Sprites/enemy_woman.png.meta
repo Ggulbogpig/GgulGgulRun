@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: b637e9cfac9b32346aa578c300ef5675
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1444716478640318245
+    second: enemy_woman_0
+  - first:
+      213: -708942526730305528
+    second: enemy_woman_1
+  - first:
+      213: 2632504223574997520
+    second: enemy_woman_2
+  - first:
+      213: 6398872936862802058
+    second: enemy_woman_3
+  - first:
+      213: 1156387888717550803
+    second: enemy_woman_4
+  - first:
+      213: 1979382388750641649
+    second: enemy_woman_5
+  - first:
+      213: -8507464135524903603
+    second: enemy_woman_6
+  - first:
+      213: 9216686490909993663
+    second: enemy_woman_7
+  - first:
+      213: 535119817683672658
+    second: enemy_woman_8
+  - first:
+      213: -4059025922579089239
+    second: enemy_woman_9
+  - first:
+      213: -5580702732710579406
+    second: enemy_woman_10
+  - first:
+      213: 420544227914101090
+    second: enemy_woman_11
+  - first:
+      213: 2072594015059509873
+    second: enemy_woman_12
+  - first:
+      213: 5037928013365317437
+    second: enemy_woman_13
+  - first:
+      213: 8014104195013595254
+    second: enemy_woman_14
+  - first:
+      213: 1374941701735485882
+    second: enemy_woman_15
+  - first:
+      213: -8049483296584428849
+    second: enemy_woman_16
+  - first:
+      213: 7448382176856776964
+    second: enemy_woman_17
+  - first:
+      213: -3738484961543189904
+    second: enemy_woman_18
+  - first:
+      213: 7699139796165375052
+    second: enemy_woman_19
+  - first:
+      213: -6808328394957449153
+    second: enemy_woman_20
+  - first:
+      213: -801749902262708314
+    second: enemy_woman_21
+  - first:
+      213: 3195538448705319363
+    second: enemy_woman_22
+  - first:
+      213: 6836194782913497371
+    second: enemy_woman_23
+  - first:
+      213: 5597109547075593980
+    second: enemy_woman_24
+  - first:
+      213: -8833499422855551873
+    second: enemy_woman_25
+  - first:
+      213: 4782892070623043200
+    second: enemy_woman_26
+  - first:
+      213: 1522348695210692791
+    second: enemy_woman_27
+  - first:
+      213: -4571160921445858231
+    second: enemy_woman_28
+  - first:
+      213: 1045137630923293596
+    second: enemy_woman_29
+  - first:
+      213: 8223558545782248758
+    second: enemy_woman_30
+  - first:
+      213: 864537043161625516
+    second: enemy_woman_31
+  - first:
+      213: -5012539191328795294
+    second: enemy_woman_32
+  - first:
+      213: -3692903650460168503
+    second: enemy_woman_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_woman_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 756
+        width: 223
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527628e9bf9ac0410800000000000000
+      internalID: 1444716478640318245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 757
+        width: 224
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800821037845926f0800000000000000
+      internalID: -708942526730305528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 758
+        width: 223
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a37ebc4a8888420800000000000000
+      internalID: 2632504223574997520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_3
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 752
+        width: 226
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80619c880d5dc850800000000000000
+      internalID: 6398872936862802058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 440
+        width: 212
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4d29178a05c0010800000000000000
+      internalID: 1156387888717550803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 635
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9652c9bcd287b10800000000000000
+      internalID: 1979382388750641649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 440
+        width: 211
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4599a6717a6fe980800000000000000
+      internalID: -8507464135524903603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 633
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbae4d8088f38ef70800000000000000
+      internalID: 9216686490909993663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 438
+        width: 214
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9e4593a02d6700800000000000000
+      internalID: 535119817683672658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_9
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 629
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a83296dd617ba7c0800000000000000
+      internalID: -4059025922579089239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_10
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 423
+        width: 214
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fbb3be6c5d82b0800000000000000
+      internalID: -5580702732710579406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_11
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 625
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26139254fb216d500800000000000000
+      internalID: 420544227914101090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_12
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 610
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172093f864553cc10800000000000000
+      internalID: 2072594015059509873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 612
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f01a806d05ae540800000000000000
+      internalID: 5037928013365317437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_14
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 608
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d0c80e41d73f60800000000000000
+      internalID: 8014104195013595254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_15
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 601
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab190d66136c41310800000000000000
+      internalID: 1374941701735485882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 452
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc215a9f69d7a4090800000000000000
+      internalID: -8049483296584428849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 481
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40126ea6028fd5760800000000000000
+      internalID: 7448382176856776964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_18
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 451
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a041d1cbb3e1cc0800000000000000
+      internalID: -3738484961543189904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_19
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 447
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b2825ad6d8da60800000000000000
+      internalID: 7699139796165375052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 449
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f381b589565f381a0800000000000000
+      internalID: -6808328394957449153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 105
+        width: 314
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a75de436bc9fd4f0800000000000000
+      internalID: -801749902262708314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_22
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 101
+        width: 249
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1fe25d945d85c20800000000000000
+      internalID: 3195538448705319363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 105
+        width: 243
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1900f27fea0fde50800000000000000
+      internalID: 6836194782913497371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_24
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 349
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf663627a7decad40800000000000000
+      internalID: 5597109547075593980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_25
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 321
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74a319a31b196580800000000000000
+      internalID: -8833499422855551873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_26
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 326
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ed4845ffe306240800000000000000
+      internalID: 4782892070623043200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_27
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 103
+        width: 234
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b010529218702510800000000000000
+      internalID: 1522348695210692791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_28
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 307
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944821a6c59ff80c0800000000000000
+      internalID: -4571160921445858231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 249
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9383905323118e00800000000000000
+      internalID: 1045137630923293596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_30
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 190
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6359af65de2ff1270800000000000000
+      internalID: 8223558545782248758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_31
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 224
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3b0d83cd37ffb00800000000000000
+      internalID: 864537043161625516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 198
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2659f1eb922ef6ab0800000000000000
+      internalID: -5012539191328795294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_woman_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 176
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce049c12bb20ccc0800000000000000
+      internalID: -3692903650460168503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
